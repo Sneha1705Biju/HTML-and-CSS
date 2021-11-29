@@ -1,0 +1,171 @@
+body{
+    font-family: 'Caros', sans-serif;
+    
+}
+
+#pic{
+    margin-right: 100px;
+}
+li{
+
+    width: 75%;
+    height: 5px;
+    display: inline;
+    padding: 10px; 
+    
+    text-align: center; 
+}
+li:hover{
+    color: #FF4800;
+}
+#top{
+    background-image: url();
+    
+}
+#side{
+                
+    width: 30%;
+    padding: 15px;
+    margin: 7%;
+   letter-spacing: 1px;
+   word-spacing: normal;
+   display: inline-block;
+  
+}
+#web{
+    text-decoration: none;
+    color: #FF4800;  
+}
+#web:hover{
+    color: rgb(170, 29, 88);
+}
+h1{
+    text-align: center;
+    color: #283a5e;
+    line-height: 30px;
+
+}
+h2{
+    color: #283a5e;
+    font-size: 25px;
+    line-height: 30px;
+    
+}
+#words{
+    font-size: 18px;
+    line-height: 25px;
+}
+#page{
+    background-color: white;
+    box-sizing: border-box;
+    box-shadow: 1px;
+    border: 1px solid rgb(214, 214, 214) ;
+    width: 40%;
+    float: right;
+    margin: 20px;
+
+}
+#message{
+    margin-top: 50px;
+    text-align:center;
+   
+}
+
+input{
+    width: 80%;
+    margin: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 1px solid rgb(214, 214, 214) ;
+}
+input[type="checkbox"]{
+    padding: auto;
+    margin: auto;
+}
+#condition{
+    text-align: left;
+    font-weight: inherit;
+    font-size: inherit;
+    margin: 2px;
+}
+#submit{
+    background-color: #FF4800;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-left:10px ;
+}
+#submit:hover{
+    background-color: rgb(235, 222, 222);
+}
+#place{
+    width: 30%;
+    margin: 30px 10px 0 10px ;
+    float: left;
+   
+}
+figure{
+    height: auto;
+    max-width: 100%;
+    margin: 0 5px;
+
+}
+figcaption{
+    width: 350;
+    height: 220;
+    margin: 0 5px;
+    padding: 0 2px;
+    box-sizing: content-box;
+    border-radius: 4px;
+    border: 1px solid rgb(214, 214, 214) ;
+}
+#office{
+   margin: 30px;
+}
+#follow{
+    clear: both;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;   
+}
+#info{
+    margin: 40px;
+    width: 30%;
+    padding: 40px;
+    float: left;
+}
+a{
+text-decoration: none;
+color: #283a5e;
+
+}
+
+a:hover{
+   color: #FF4800;
+}
+#links{
+color: #283a5e;
+float: left;
+width: 15%;
+}
+#last{
+    word-spacing: 3px;
+    line-height: 2;
+}
+#foot{
+    clear: both;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+#chat{
+    background-image: url(/);
+    position: fixed;
+    align-items: right right;
+    z-index: 1000;
+
+
+
+}  
+
